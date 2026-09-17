@@ -9,6 +9,8 @@ Issue、ブランチ、Pull Request、CI、GitHub Pages CD を一巡するため
 - npm
 - GitHub Actions と GitHub Pages を利用できる GitHub リポジトリ
 
+テスト太郎
+
 ## ローカルで確認する
 
 ### PowerShell
